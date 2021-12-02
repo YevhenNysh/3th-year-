@@ -1,0 +1,10 @@
+Output: MultiWire
+Type  : MultiWire
+From  : Project [lab1.PrjPcb]
+   Generated File[s1mple.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 22:12:51 On 25.04.2021

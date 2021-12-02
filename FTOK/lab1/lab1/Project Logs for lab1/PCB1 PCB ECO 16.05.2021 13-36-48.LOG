@@ -1,0 +1,12 @@
+Change Physical Footprint: Designator=C2 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=C3 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=DD14 Old Footprint=SOIC-14 New Footprint=SOIC-14
+Change Physical Footprint: Designator=R2 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R3 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R6 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=R8 Old Footprint=0805 New Footprint=0805
+Change Physical Footprint: Designator=VD6 Old Footprint=SOD-123 New Footprint=SOD-123
+Change Physical Footprint: Designator=VT1 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Physical Footprint: Designator=XP1 Old Footprint=PLS-2 New Footprint=PLS-2
+Change Physical Footprint: Designator=XP2 Old Footprint=PLS-2 New Footprint=PLS-2
+Change Physical Footprint: Designator=XP3 Old Footprint=PLS-2 New Footprint=PLS-2
